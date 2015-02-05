@@ -50,7 +50,7 @@ angular
         24: "Do you have contractions or pulsing sensations when you're coming?"
         25: "After orgasm do you feel satisfied or fulfilled? What do you need from me? Do you need to feel tender and close? Are you sleepy? Do you feel energized and wide awake?"
         26: "Do you usually have multiple orgasms? "
-        26: "Are you very sensitive after orgasm and want to avoid stimulation?"
+        27: "Are you very sensitive after orgasm and want to avoid further stimulation?"
       }
       3: {
         1: "Many women say that they like the closeness of penetration, but some women say that they don't have orgasms through penetration, so they have mixed feelings about it. How do you feel?"
@@ -78,7 +78,7 @@ angular
         2: "When I initiate sex, what do you usually feel?"
         3: "When you initiate sex, what do you usually feel?"
         4: "What should we do if I am more amorous than you?"
-        5: "What should we do if you are more amorous than me?"
+        5: "What should we do if you are more amorous than I am?"
       }
       6: {
         1: "What do you like about your body?"
@@ -109,8 +109,7 @@ angular
         1: "What are your feelings about stimulating me by hand? Does that work for you? How could it be better?"
         2: "Are there some ways of me caressing you that work better? "
         3: "How do you feel about my satisfying you by caressing your penis?"
-        4: "Do you feel embarrassed to ask me to touch your penis? If so, what can I do to make that better?"
-        5: "Would it help if I asked you, \"What do you want and need?\""
+        4: "Would it help if I asked you, \"What do you want and need?\""
       }
       10: {
         1: "What are your feelings about my stimulating your clitoris by hand? How could it be better?"
@@ -143,14 +142,14 @@ angular
     $scope.selectOptions  = [
       {group: 0, name: "All Questions", questionCount: 105},
       {group: 1, name: "Masturbation Questions", questionCount:15},
-      {group: 2, name: "Orgasm Questions", questionCount:26},
+      {group: 2, name: "Orgasm Questions", questionCount:27},
       {group: 3, name: "Sex Questions", questionCount:9},
       {group: 4, name: "Libido Questions", questionCount:8},
       {group: 5, name: "Initiating Questions", questionCount:5},
       {group: 6, name: "Your Body Questions", questionCount:6},
       {group: 7, name: "Slow Hands & Mouth Questions", questionCount:5},
       {group: 8, name: "Feelings & Intimacy Questions", questionCount:8},
-      {group: 9, name: "Hand Stimulation Questions", questionCount:5},
+      {group: 9, name: "Hand Stimulation Questions", questionCount:4},
       {group: 10, name: "Clitoral Stimulation Questions", questionCount:6},
       {group: 11, name: "Oral Sex Questions", questionCount:8},
       {group: 12, name: "Sex With Others Questions", questionCount:2},
